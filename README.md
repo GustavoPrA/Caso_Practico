@@ -16,3 +16,7 @@ Para la segunda tabla se buscó identificar por categoría de producto y total d
 En la última tabla podemos identificar transacciones por tipo de producto, así como los ingresos de los mismos. Se identificaron los 10 productos con mayor numero de transacciones siendo _Brew Chai tea_ el primer lugar con 26,250 transacciones y total de ingresos de $50,446.35. A continuación se sitúa _Gourmet brewed coffee_ con 25,973 transacciones e ingresos de $45,605.60. En el tercer lugar se encuentra _Barista Espresso_ con 24,943 transacciones y total de $59,956.25 como ingresos.
 
 Para cada una de las tablas se generaron gráficos colocados a la derecha de su tabla correspondiente, así como un segmentador de datos que permite seleccionar una o varias sucursales y visualizar tanto transacciones como ingresos de cada tabla y gráfico.
+
+# ANEXOS
+## Dashboard del análisis 
+![imagen](https://github.com/user-attachments/assets/216a3dd3-73d3-497a-8255-d250550a6c58)
